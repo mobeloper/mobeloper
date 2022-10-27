@@ -1,11 +1,13 @@
 
 <h1 align="center">¡Hi there! I'm Mobeloper 👋 <a> <br> <img aling="left" width="100" height="100" src="https://github.com/anagvillanueva/anagvillanueva/blob/main/4Snj.gif?raw=true" /></a></h1>
 
-## 
+ 
+<div align="center">
   
-  <div align="center"> 
-    ![mobeloper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobeloper&theme=radical&show_icons=true)
-  </div>
+  ![mobeloper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobeloper&theme=radical&show_icons=true)
+
+ </div>
+
 
  <h3 align="center"> CTO | PhD in Biomedical Engineering | FullStack Developer </h3>
  <div>
