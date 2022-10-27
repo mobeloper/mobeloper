@@ -9,8 +9,8 @@
 
  </div>
 
-<h3 align="center"> PhD in Biomedical Engineering | FullStack Developer </h3>
-<p> <li> I'm constantly learning, don't be surprised if you see something peculiar 🚀 <p>
+<h3 align="center"> CTO | PhD in Biomedical Engineering | FullStack Developer </h3>
+<p> <li> I'm constantly learning, and trying to grow personaly and professionaly 🚀 <p>
 <p> <li> I'm interested in backend, frontend, machine learning, databases and, cybersecurity technologies 💻<p>
 <p> <li> My passion fields are Entrepreneurship, Startups, AI/ML, Healthcare, Medical Devices, Space, Ecommerce, Financing, Real State 📚 <p>
 <!-- <p> <li> You can send me an email here: anagutierrez87@aragon.unam.mx 💌 <p> -->
