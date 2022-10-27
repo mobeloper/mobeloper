@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p> <li> You can find school and personal projects 📚 <p>
 <p> <li> I'm constantly learning, don't be surprised if you see something peculiar 🚀 <p>
 <p> <li> I'm interested in frontend technologies, databases and cybersecurity 💻<p>
-<p> <li> You can send me an email here: anagutierrez87@aragon.unam.mx 💌 <p>
+<!-- <p> <li> You can send me an email here: anagutierrez87@aragon.unam.mx 💌 <p> -->
 
 <div align="center">
 <a href="https://www.credly.com/badges/764a5830-980b-4454-85d5-f3f33fdd95e4" target="_blank"><img aling="center" width="90" height="90" src="https://user-images.githubusercontent.com/54164289/177465006-4dc8128a-29f9-4335-abbb-8801e22655c3.png"> 
@@ -50,6 +50,6 @@ Here are some ideas to get you started:
   
 <div align="center">
   
-  ![anagvillanueva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anagvillanueva&theme=radical&show_icons=true)
+  ![mobeloper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobeloper&theme=radical&show_icons=true)
 
  </div>
