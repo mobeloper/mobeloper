@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 
 <h1 align="center">¡Hi! I'm Mobeloper <a> <br> <img aling="left" width="100" height="100" src="https://github.com/anagvillanueva/anagvillanueva/blob/main/4Snj.gif?raw=true" /></a></h1>
 
+## 
+  
+<div align="center">
+  
+  ![mobeloper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobeloper&theme=radical&show_icons=true)
+
+ </div>
+
 <h3 align="center"> Computer Engineering Student UNAM  | IBM Student 💙 | DEV.F </h3>
 <p> <li> You can find school and personal projects 📚 <p>
 <p> <li> I'm constantly learning, don't be surprised if you see something peculiar 🚀 <p>
@@ -46,10 +54,4 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  
-## 
-  
-<div align="center">
-  
-  ![mobeloper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobeloper&theme=radical&show_icons=true)
 
- </div>
