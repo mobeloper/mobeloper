@@ -12,9 +12,9 @@
  <h3 align="center"> CTO | PhD in Biomedical Engineering | FullStack Developer </h3>
  <div>
   <p> <li> I'm constantly learning, and trying to grow personaly and professionaly 🚀 <p>
-  <p> <li> I'm interested in backend, frontend, machine learning, databases and, cybersecurity technologies 💻<p>
-  <p> <li> My passion fields are Entrepreneurship, Startups, AI/ML, Healthcare, Medical Devices, Space, Ecommerce, Financing, Real State 📚 <p>
-  <!-- <p> <li> You can send me an email here: anagutierrez87@aragon.unam.mx 💌 <p> -->
+  <p> <li> I'm interested in backend, frontend, and machine learning technologies 💻<p>
+  <p> <li> My passion fields are Entrepreneurship, Startups, AI/ML, Healthcare, Medical Devices, Ecommerce, FinTech, and Real State 📚 <p>
+  <!-- <p> <li> You can send me an email here: shakesystems@gmail.com 💌 <p> -->
 </div>
   
 <div align="center">
@@ -29,6 +29,10 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/ana-fernanda-guti%C3%A9rrez-villanueva/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ana_gvillanueva)
 -->
+
+## 📱 Connect with me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericmichelcv/)
+
 
 
 ## 🛠 Skills
