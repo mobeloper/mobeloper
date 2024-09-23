@@ -12,7 +12,7 @@
  <h3 align="center"> CTO | PhD in Biomedical Engineering | FullStack Developer </h3>
  <div>
   <p> <li> I'm constantly learning, and trying to grow personaly and professionaly 🚀 <p>
-  <p> <li> I'm interested in backend, frontend, and machine learning technologies 💻<p>
+  <p> <li> I'm interested in backend, frontend, and AI technologies 💻<p>
   <p> <li> My passion fields are Entrepreneurship, Startups, AI/ML, Healthcare, Medical Devices, Ecommerce, FinTech, and Real State 📚 <p>
   <!-- <p> <li> You can send me an email here: shakesystems@gmail.com 💌 <p> -->
 </div>
