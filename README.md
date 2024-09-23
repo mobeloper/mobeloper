@@ -1,5 +1,5 @@
 
-<h1 align="center">¡Hi there! I'm Koder Mobeloper 👋 <a> <br> <img aling="left" width="100" height="100" src="https://github.com/anagvillanueva/anagvillanueva/blob/main/4Snj.gif?raw=true" /></a></h1>
+<h1 align="center">¡Hi there! 👋 <a> <br> <img aling="left" width="100" height="100" src="https://github.com/anagvillanueva/anagvillanueva/blob/main/4Snj.gif?raw=true" /></a></h1>
 
  
 <div align="center">
@@ -21,6 +21,10 @@
 <a href="https://www.credly.com/badges/764a5830-980b-4454-85d5-f3f33fdd95e4" target="_blank"><img aling="center" width="90" height="90" src="https://user-images.githubusercontent.com/54164289/177465006-4dc8128a-29f9-4335-abbb-8801e22655c3.png"> 
 <a href="https://www.credly.com/badges/dd7a10db-05e8-458b-aad5-b729a8d86da0" target="_blank"> <img aling="center" width="90" height="90" src="https://user-images.githubusercontent.com/54164289/177465014-fa14b8ef-c216-4d9a-b857-3adb46626e47.png"> 
 <img aling="center" width="90" height="90" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png">
+<img aling="center" width="90" height="90" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
+<img aling="center" width="90" height="90" src="https://images.credly.com/images/0586d038-b371-48e0-ade3-e680a080a85a/image.png">
+<img aling="center" width="90" height="90" src="https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png">
+
 
 </div>
 
