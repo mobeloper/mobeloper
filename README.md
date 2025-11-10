@@ -13,7 +13,7 @@
  <div>
   <p> <li> I'm constantly learning, and trying to grow personaly and professionaly 🚀 <p>
   <p> <li> I'm interested in backend, frontend, and AI technologies 💻<p>
-  <p> <li> My passion fields are Entrepreneurship, Startups, AI/ML, Healthcare, Medical Devices, Ecommerce, EduTech, FinTech, and Real State 📚 <p>
+  <p> <li> My passion fields are Entrepreneurship, Startups, AI/ML, Healthcare, Medical Devices, Ecommerce, EduTech, FinTech, and Real Estate 📚 <p>
   <!-- <p> <li> You can send me an email here: shakesystems@gmail.com 💌 <p> -->
 </div>
   
